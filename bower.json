@@ -1,0 +1,22 @@
+{
+  "name": "zwblog2",
+  "description": "blog for zw",
+  "main": "",
+  "authors": [
+    "zhengwen"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zhengwen2013/zwblog2",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
